@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/multimodal_ai_modal/__init__.py
+src/multimodal_ai_modal/cli.py
+src/multimodal_ai_modal/core.py
+src/multimodal_ai_modal/models.py
+src/multimodal_ai_modal.egg-info/PKG-INFO
+src/multimodal_ai_modal.egg-info/SOURCES.txt
+src/multimodal_ai_modal.egg-info/dependency_links.txt
+src/multimodal_ai_modal.egg-info/entry_points.txt
+src/multimodal_ai_modal.egg-info/requires.txt
+src/multimodal_ai_modal.egg-info/top_level.txt
+tests/test_basic.py

@@ -1,0 +1,2 @@
+[console_scripts]
+multimodal-ai = multimodal_ai_modal.cli:main
